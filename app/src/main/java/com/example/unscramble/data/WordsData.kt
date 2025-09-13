@@ -76,7 +76,7 @@ val allWords: Set<String> =
         "grocery",
         "glass",
         "great",
-        "giggle",
+        "iggle",
         "haircut",
         "half",
         "homemade",
