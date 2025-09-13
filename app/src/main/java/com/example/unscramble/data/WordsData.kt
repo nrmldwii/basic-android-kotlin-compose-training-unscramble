@@ -104,7 +104,7 @@ val allWords: Set<String> =
         "landscape",
         "late",
         "laugh",
-        "learning",
+        "lelarning",
         "lemon",
         "letter",
         "lily",
